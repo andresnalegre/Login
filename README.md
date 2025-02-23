@@ -1,6 +1,6 @@
 # Login X
 
-This modern [login X](https://andresnalegre.github.io/Login) project showcases my UI/UX skills with a space-themed design.
+This modern [login X](https://andresnalegre.github.io/Login-X) project showcases my UI/UX skills with a space-themed design.
 
 ---
 
